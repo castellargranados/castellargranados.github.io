@@ -9,3 +9,8 @@ redirect_from:
 
 <iframe src="https://drive.google.com/file/d/1fRV3YFxxrn6d8qh0CRcuYeu76FFhFsZ7/preview" width="640" height="480"></iframe>
 
+---
+
+You can download a PDF copy of my CV [here](files/CV_CastellarG.pdf).
+
+
