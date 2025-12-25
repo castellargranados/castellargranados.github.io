@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Castellar Granados"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Castellar Granados"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,11 +26,11 @@ author:
   avatar           : "FotoCV.jpeg"
   name             : "Castellar Granados"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant Professor at Universidad Alfonso X El Sabio and Research Associate at Instituto de Iberoamérica"
+  location         : "Madrid, Spain"
+  employer         : "Universidad Alfonso X El Sabio"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mgranagu@uax.es" 
 
   # Academic websites
   academia         : # URL
