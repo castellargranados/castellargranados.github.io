@@ -8,13 +8,6 @@ author_profile: true
 {% assign articles = site.publications | where: "category", "articles" | sort: "year" | reverse %}
 {% assign counter = articles | size %}
 
-{% if site.author.googlescholar %}
-<div class="wordwrap">
-You can also find my articles on
-<a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
-</div>
-{% endif %}
-
 <h2>Journal Articles</h2><hr />
 
 {% for post in articles %}
