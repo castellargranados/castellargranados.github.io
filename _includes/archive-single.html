@@ -1,5 +1,4 @@
-<div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 1.2em;">
-
+<div style="margin-bottom: 1.8em;">
   <p>
     {{ post.authors }}. ({{ post.year }}). "{{ post.title }}." <i>{{ post.venue }}</i>{% if post.volume %}, {{ post.volume }}{% endif %}{% if post.number %}({{ post.number }}){% endif %}{% if post.pages %}: {{ post.pages }}{% endif %}.
   </p>
