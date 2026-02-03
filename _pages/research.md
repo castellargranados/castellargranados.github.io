@@ -8,10 +8,10 @@ author_profile: true
 <h2>Journal Articles</h2>
 <hr />
 
-{% assign articles = site.publications | where: "category", "articles" | sort: "year" | reverse %}
-{% assign counter = articles | size %}
+{% assign sorted_articles = site.publications | where: "category", "articles" | sort: "year" | reverse %}
+{% assign counter = sorted_articles | size %}
 
-{% for post in articles %}
+{% for post in sorted_articles %}
 <div style="margin-bottom: 1.5em;">
   [{{ counter }}] {{ post.authors }}. ({{ post.year }}). "{{ post.title }}." 
   <i>{{ post.venue }}</i>{% if post.volume %}, {{ post.volume }}{% endif %}{% if post.number %}({{ post.number }}){% endif %}{% if post.pages %}: {{ post.pages }}{% endif %}.
