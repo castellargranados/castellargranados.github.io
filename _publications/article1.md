@@ -1,6 +1,6 @@
 ---
 title: "Race, Inequality, and Political Trust in Latin America"
-authors: "Granados, C., and Sánchez, F."
+authors: "Granados, C., and Sánchez, F"
 venue: "Latin American Politics and Society"
 year: 2025
 volume: 67
