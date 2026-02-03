@@ -9,7 +9,7 @@ author_profile: true
 <hr />
 
 {% assign articles = site.publications | where: "category", "articles" | sort: "year" | reverse %}
-{% assign counter = 1 %}
+{% assign counter = articles | size %}
 
 {% for post in articles %}
 <div style="margin-bottom: 1.5em;">
@@ -18,5 +18,5 @@ author_profile: true
   {% if post.paperurl %} <a href="{{ post.paperurl }}">Paper</a>{% endif %}
 </div>
 
-{% assign counter = counter | plus: 1 %}
+{% assign counter = counter | minus: 1 %}
 {% endfor %}
