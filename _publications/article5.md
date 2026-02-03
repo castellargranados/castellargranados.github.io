@@ -1,6 +1,6 @@
 ---
 title: "Institutionalization of Contentious Politics: Ecuador under Guillermo Lasso"
-authors: "Sánchez, F., and Granados, C."
+authors: "Sánchez, F., and Granados, C"
 venue: "Revista de Ciencia Política (Santiago)"
 year: 2023
 volume: 43
