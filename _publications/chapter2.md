@@ -5,6 +5,6 @@ year: 2024
 category: chapters
 venue: "Elecciones en América Latina: de pandemia y de derrotas (2020-2023)"
 pages: "695-730"
-editors: "Eds. M. Alcántara, M. García Montero, and A. Bohigues"
+editors: "M. Alcántara, M. García Montero, and A. Bohigues"
 publisher: "Madrid: Centro de Estudios Políticos y Constitucionales"
 ---
