@@ -1,6 +1,6 @@
 ---
 title: "La política migratoria paraguaya en el contexto latinoamericano"
-authors: "Biderbost, P., and Granados, C."
+authors: "Biderbost, P., and Granados, C"
 year: 2026
 category: chapters
 venue: "Manual de sistema político paraguayo"
