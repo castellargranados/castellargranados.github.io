@@ -50,7 +50,9 @@ author_profile: true
 {% for post in sorted_chapters %}
 <div style="margin-bottom: 1.5em;">
   [{{ counter }}] {{ post.authors }}. ({{ post.year }}). "{{ post.title }}."
-  <i>{{ post.venue }}</i>{% if post.pages %}: {{ post.pages }}{% endif %}.
+  In {% if post.editors %}{{ post.editors }} (Eds.), {% endif %}<i>{{ post.venue }}</i>{% if post.pages %}, pp. {{ post.pages }}{% endif %}.
+  {% if post.publisher %}{{ post.publisher }}.{% endif %}
+  {% if post.paperurl %} <a href="{{ post.paperurl }}">Paper</a>{% endif %}
 </div>
 {% assign counter = counter | minus: 1 %}
 {% endfor %}
