@@ -5,6 +5,6 @@ year: 2019
 category: chapters
 venue: "Los derechos humanos 70 años después de la Declaración Universal"
 pages: "101-133"
-editors: "Ed. N. Sanz Mulas"
+editors: "N. Sanz Mulas"
 publisher: "Valencia: Tirant Lo Blanch"
 ---
