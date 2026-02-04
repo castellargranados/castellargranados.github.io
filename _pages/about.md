@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Department of International Relations at the [Universidad Alfonso X](https://www.uax.com/) in Madrid and a Research Associate at the [Instituto de Iberoamérica](https://iberoame.usal.es/). I received my PhD in Political Science at the [Universidad de Salamanca](https://www.usal.es/) in 2025, following an MA in Latin American Studies from the same institution and a BA in International Relations from [Universidad Pontificia Comillas](https://www.comillas.edu/) in Madrid. 
+I am an Adjunct Professor at the Department of International Relations at the [Universidad Alfonso X](https://www.uax.com/) in Madrid and a Research Associate at the [Instituto de Iberoamérica](https://iberoame.usal.es/). I received my PhD in Political Science at the [Universidad de Salamanca](https://www.usal.es/) in 2025, following an MA in Latin American Studies from the same institution and a BA in International Relations from [Universidad Pontificia Comillas](https://www.comillas.edu/) in Madrid. 
 
 **I am on the 2025-2026 academic job market**
 
