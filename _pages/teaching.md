@@ -13,7 +13,7 @@ author_profile: true
 {% for course in sorted_instructor %}
 <div style="margin-bottom: 1.2em;">
   <strong>{{ course.institution }}</strong><br />
-  {{ course.name }} ({{ course.level }}). {{ course.term }}.
+  {{ course.title }} ({{ course.level }}). {{ course.term }}.
 </div>
 {% endfor %}
 
@@ -26,6 +26,6 @@ author_profile: true
 {% for course in sorted_ta %}
 <div style="margin-bottom: 1.2em;">
   <strong>{{ course.institution }}</strong><br />
-  {{ course.name }} ({{ course.level }}). {{ course.term }}.
+  {{ course.title }} ({{ course.level }}). {{ course.term }}.
 </div>
 {% endfor %}
