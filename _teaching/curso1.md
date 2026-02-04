@@ -1,8 +1,8 @@
 ---
 title: "Latin American Politics"
-institution: "Universidad Alfonso X El Sabio"
 role: "Instructor of Record"
-level: "undergraduate"
+institution: "Universidad Alfonso X El Sabio"
+level: "Undergraduate"
 term: "Fall 2025"
 year: 2025
 ---
