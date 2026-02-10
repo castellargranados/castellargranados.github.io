@@ -18,14 +18,16 @@ jobs:
         with:
           ruby-version: 3.1
 
-      # 3️⃣ Instalar Bundler y dependencias
+      # 3️⃣ Instalar Bundler
       - run: gem install bundler
-      - run: bundle install
 
-      # 4️⃣ Construir el sitio Jekyll
+      # 4️⃣ Instalar solo la gema github-pages compatible
+      - run: bundle install --jobs 4 --retry 3
+
+      # 5️⃣ Construir el sitio usando la gema github-pages
       - run: bundle exec jekyll build
 
-      # 5️⃣ Publicar en GitHub Pages
+      # 6️⃣ Publicar en GitHub Pages
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
