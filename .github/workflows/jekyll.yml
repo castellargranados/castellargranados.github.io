@@ -16,7 +16,7 @@ jobs:
       # 2️⃣ Configurar Ruby
       - uses: actions/setup-ruby@v1
         with:
-          ruby-version: 3.0
+          ruby-version: 2.7
 
       # 3️⃣ Instalar Bundler y dependencias
       - run: gem install bundler
