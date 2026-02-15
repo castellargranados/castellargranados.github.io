@@ -1,6 +1,6 @@
 ---
 title: "Latin American Political Systems"
-role: "Teaching Assistant"
+role: "Instructor of Record"
 institution: "Universidad de Salamanca"
 level: "undergraduate"
 term: "Fall 2022, 2023, 2024"
