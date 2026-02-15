@@ -1,6 +1,6 @@
 ---
 title: "Public Policy"
-role: "Teaching Assistant"
+role: "Instructor of Record"
 institution: "Universidad de Salamanca"
 level: "undergraduate"
 term: "Spring 2024"
