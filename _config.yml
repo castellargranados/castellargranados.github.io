@@ -20,17 +20,16 @@ author:
   avatar: "FotoCV.jpeg"
   name: "Castellar Granados"
   pronouns: ""  
-  bio: "Adjunct Professor at Universidad Alfonso X El Sabio and Research Fellow at Fundación Carolina"
-  location: "Madrid, Spain"
-  employer: "Universidad Alfonso X El Sabio"
-  email: "mgranagu@uax.es"
+  bio: "Postdoctoral Researcher at University of Girona"
+  location: "Girona"
+  employer: "University of Girona"
+  email: "castellar.granados@udg.edu"
 
   # Academic websites
   googlescholar: "https://scholar.google.com/citations?user=NnvHHdYAAAAJ&hl=es"
   orcid: "https://orcid.org/0000-0003-1690-3645"
 
   # Social media
-  bluesky: "castegranados.bsky.social"
   twitter: "castegranados"
 
 # Publication Categories
